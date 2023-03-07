@@ -7,3 +7,16 @@
 body {
     font-family: 'Roboto', sans-serif;
 }
+
+.container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+span {
+    margin: 5px;
+}
+
+.hidden {
+    display: none;
+}
